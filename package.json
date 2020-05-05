@@ -1,5 +1,5 @@
 {
-	"name": "Free Cade Camp",
+	"name": "fcc-learn-npm-package-json",
 	"author": "m4ufurts",
 	"dependencies": {
 		"express": "^4.14.0"

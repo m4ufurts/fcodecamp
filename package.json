@@ -1,5 +1,5 @@
 {
-	"name": "m4ufurts",
+	"name": "Free Cade Camp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -14,4 +14,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
+	{
+	"author":"m4ufrts",
+}
 }
